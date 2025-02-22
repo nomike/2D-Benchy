@@ -1,4 +1,4 @@
-A 2D benchy!
+A sub 2-minute 2D benchy!
 
 #### Thingiverse
 
