@@ -1,1 +1,1 @@
-Print with 0.4 mm first layer height.
+Print with 0.2 mm first layer height.
