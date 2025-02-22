@@ -1,0 +1,1 @@
+linear_extrude(0.4) projection(cut = false) rotate([-90, 0, 0]) import("3DBenchy.stl");
